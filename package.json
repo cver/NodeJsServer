@@ -1,0 +1,14 @@
+{
+    "name": "CHAT",
+    "version": "1.0.0",
+    "private": "true",
+    "dependencies": {
+        "express": "*",
+        "socket.io": "*",
+        "socketio-file-upload": "^0.4.4"
+    },
+    "scripts": {
+        "start": "node main.js"
+    }
+
+}
